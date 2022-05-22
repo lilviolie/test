@@ -1,0 +1,16 @@
+.GridHoverClass:hover{
+    opacity: 1;
+    transform: scale(1.5);
+}
+.GridHoverClass{
+    opacity: 0.1;
+    transition : transform .2s ease-in;
+    border-width: 100px;
+}
+
+/* .post{
+    opacity: 0;
+}
+.post:hover{
+    opacity: 1;
+} */
